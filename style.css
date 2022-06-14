@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-image: url("assets/background.avif"); 
+    color: white;
+}
+
+img{
+    height: 700px;
+}
+
+
+.title{
+    font-family: 'Nothing You Could Do', cursive;
+}
+
+.album-info{
+    font-family: 'Overpass Mono', monospace;
+    font-size: 56px;
+}
